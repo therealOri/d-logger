@@ -11,3 +11,10 @@ This simple bit of code can be very easily added into your python discord bot co
 
 # Here is an example picture of my terminal while running a bot called Arc
 ![](attachments/d-logger-test-example.png)
+
+
+
+
+
+I am not resonsible for your misuse or malicious purposes of this code. Use at your own risk.
+If you get punished for using this, that is fully on you as I made this to be a proof of concept to show how easily you can spy on people/servers using bots/code.
