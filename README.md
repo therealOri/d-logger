@@ -16,5 +16,5 @@ This simple bit of code can be very easily added into your python discord bot co
 
 
 
-I am not resonsible for your misuse or malicious purposes of this code. Use at your own risk.
+I am not resonsible or liable for your misuse or malicious purposes of this code. Use at your own risk.
 If you get punished for using this, that is fully on you as I made this to be a proof of concept to show how easily you can spy on people/servers using bots/code.
