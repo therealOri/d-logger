@@ -6,3 +6,8 @@ You can auto download pictures/gifs that get sent in all servers aswell as **All
 
 
 This simple bit of code can be very easily added into your python discord bot code and can be edited to fit your needs if you wish. (credit me for making it or inspiration of course)
+
+
+
+# Here is an example picture of my terminal while running a bot called Arc
+![](attachments/d-logger-test-example.png)
