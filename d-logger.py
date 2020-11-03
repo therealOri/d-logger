@@ -1,3 +1,7 @@
+#Made on Manjaro Linux and made for use in linux terminals. 
+#You may neeed to change some things if you are on windows as I have not tested it on windows. 
+#I assume it will be the same, maybe without fancy colors. idk.
+
 import discord
 from discord.ext import commands
 import colorama
