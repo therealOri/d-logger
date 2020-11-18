@@ -9,7 +9,7 @@ This simple bit of code can be very easily added into your python discord bot co
 
 
 
-# Here is an example picture of my terminal while running a bot called Arc
+# Here is an example picture of my terminal while being ran/tested on a bot called Arc
 ![](attachments/d-logger-test-example.png)
 
 
