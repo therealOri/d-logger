@@ -11,7 +11,7 @@ import asyncio
 import io
 
 
-BOT_Prefix=("d.", "d.")
+BOT_Prefix=("d.", "D.")
 client = commands.Bot(command_prefix=BOT_Prefix)
 client.remove_command("help")
 
