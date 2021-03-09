@@ -17,5 +17,5 @@ This simple bit of code can be very easily added into your python discord bot co
 
 
 I am not responsible or liable for the misuse or malicious purpose/applications of this code. Use at your own risk.
-If you get punished for using this, that is fully on you as I made this to be a proof of concept to show how easily you can spy on people/servers using bots/code.
-And I shall not be punished for the actions of those who do decide to use this code. You get punished, that is **All** on you.
+If you get punished for using this, that is **All** and fully on you. I made this code to be a proof of concept to show how easily you can spy on people/servers using discord bots/code.
+And I shall not be punished for the actions of those who do decide to use this code.
