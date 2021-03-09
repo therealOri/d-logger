@@ -54,7 +54,7 @@ image_types = ["png", "jpeg", "gif", "jpg", "mp4", "mov"] #You can add more atta
 async def on_message(message: discord.Message):
     for attachment in message.attachments:
         if any(attachment.filename.lower().endswith(image) for image in image_types):
-            await attachment.save(f'attachments/{attachment.filename}') # 'attachments/{{attachment.filename}' is the PATH to where the attachmets/images will be saved.
+            await attachment.save(f'attachments/{attachment.filename}') # 'attachments/{{attachment.filename}' is the PATH to where the attachmets/images will be saved. Example: home/you/Desktop/attachments/{{attachment.filename}
             print(Fore.WHITE + "[" + Fore.BLUE + '+' + Fore.WHITE + "]" + Fore.BLUE + f'Attachment {attachment.filename} has been saved to directory/folder > attachments.')
     else:
         with io.open("logs.txt", "a", encoding="utf-8") as f: #if logs.txt doesn't exist, it will create it and write to it.
