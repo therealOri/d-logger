@@ -59,13 +59,10 @@ async def on_message(message: discord.Message):
     else:
         with io.open("logs.txt", "a", encoding="utf-8") as f: #if logs.txt doesn't exist, it will create it and write to it.
             f.write(
-                "[{}] | [{}] | [{}] @ {}: {}\n".format(message.guild, message.channel, message.author, message.created_at,
-                                                   message.content))
+                f"[{message.guild}] | [{message.channel}] | [{message.author}] @ {message.created_at}: {message.content}\n")
             f.close()
     print(
-        Fore.WHITE + "[" + Fore.LIGHTRED_EX + '+' + Fore.WHITE + "]" + Fore.LIGHTRED_EX + "[{}] | [{}] | [{}] @ {}: {}".format(
-            message.guild, message.channel, message.author,
-            message.created_at, message.content))
+        Fore.WHITE + "[" + Fore.LIGHTRED_EX + '+' + Fore.WHITE + "]" + Fore.LIGHTRED_EX + f"[{message.guild}] | [{message.channel}] | [{message.author}] @ {message.created_at}: {message.content}")
                 
     await client.process_commands(message)
 
