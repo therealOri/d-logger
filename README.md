@@ -1,4 +1,24 @@
-# d-logger
+# New version.
+it'll do the same roughly but is for newer bots and the latest updates for discord.py.
+
+
+https://github.com/therealOri/Chatter
+__ __
+
+
+
+
+
+
+
+# d-logger | Depreciated | No support.
+> This repository won't be getting updated anytime soon, I'd recommend hopping on over to Chatter.
+__ __
+
+<br>
+<br>
+
+# About 
 Discord bot code written in python3 for spying on everyone and everything that goes down in discord servers that your bot is in.
 
 You can auto download pictures/gifs that get sent in all servers aswell as **All** text messages that get sent in the servers the bot is in. It saves the text/conversations into a .txt file (you can change this if you want but for what I have it's a .txt file). And all pictures/attachments get sent to a folder/directory that you specify. Preferably a folder/directory in the main repo folder/directory. (or if you are skilled enough, send to a remote server ;) )
